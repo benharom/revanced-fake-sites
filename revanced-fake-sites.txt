@@ -2,7 +2,7 @@
 ! Description: Redirecting from fake revanced sites to a real one
 ! Author: benharom
 ! Expires: 3 days
-! Homepage: https://github.com/benharom/revanced-fake-sites
+! Homepage: https://raw.githubusercontent.com/benharom/revanced-fake-sites/main/revanced-fake-sites.txt
 ! REVANCED REAL LINKS: revanced.app | github.com/revanced/ | reddit.com/r/revancedapp | discord.gg/revanced | t.me/s/app_revanced | https://twitter.com/revancedapp |
 ! i know it isn't made well, but whatever
 ! some of them blocks sites with malware
