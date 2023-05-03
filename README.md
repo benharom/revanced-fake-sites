@@ -24,7 +24,7 @@ Most of the adblockers, are compatible with this filter! (for example, ublock, a
 After that you're set!
 
 ## Issues
-- News articles are getting blocked by this extension. This issue will not be fixed
+- News articles are getting blocked by this extension. This issue will not be filter
 
 Please report any bugs that you found on the [Issues Page](https://github.com/benharom/revanced-fake-sites/issues)
 
