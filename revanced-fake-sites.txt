@@ -26,6 +26,7 @@
 ||appsrs.com/revanced*^$all,domain=~revanced.app
 ||*kocpc.com.tw/archives*^$all,domain=~revanced.app
 ||*iodroid.net*revanced*^$all,domain=~revanced.app
+||chpok.site^
 
 # fake sites
 ||revancedextended*.*^$all,domain=~revanced.app
