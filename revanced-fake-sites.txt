@@ -24,7 +24,7 @@
 ||tvbox-app.com/de/revanced*^$all,domain=~revanced.app
 ||*revanced*android*^$all,domain=~revanced.app
 ||appsrs.com/revanced*^$all,domain=~revanced.app
-||https://www.kocpc.com.tw/archives*^$all,domain=~revanced.app
+||*kocpc.com.tw/archives*^$all,domain=~revanced.app
 ||*iodroid.net*revanced*^$all,domain=~revanced.app
 
 # fake sites
