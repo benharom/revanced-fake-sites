@@ -1,0 +1,37 @@
+! Title: (Re)Vanced Fake Sites
+! Description: Redirecting from fake revanced sites to a real one
+! Author: benharom
+! Expires: 3 days
+! Homepage: https://github.com/benharom/revanced-fake-sites
+! REVANCED REAL LINKS: revanced.app | github.com/revanced/ | reddit.com/r/revancedapp | discord.gg/revanced | t.me/s/app_revanced | https://twitter.com/revancedapp |
+! i know it isn't made well, but whatever
+! some of them blocks sites with malware
+
+# fake mods
+||modyolo.com/revanced*^$all,domain=~revanced.app
+||apkmody.com/apps/youtube-revanced*^$all,domain=~revanced.app
+||apkpure.com/youtube-revanced*^$all,domain=~revanced.app
+||ytricks.co/youtube-vanced-apk-download*^$all,domain=~revanced.app
+||apkrabi.com/revanced*^$all,domain=~revanced.app
+||liteapks.com/youtube-revanced*^$all,domain=~revanced.app
+||androidsage*.*youtube*^$all,domain=~revanced.app
+||apklinker.com/apk/revanced*^$all,domain=~revanced.app
+||getmodsapk.com/youtube*^$all,domain=~revanced.app
+||filehippo.com/*revanced^$all,domain=~revanced.app
+||dzapk.com/*vanced*^$all,domain=~revanced.app
+||*revanced*mod*^$all,domain=~revanced.app
+||*youtube-revanced*^$all,domain=~revanced.app
+||tvbox-app.com/de/revanced*^$all,domain=~revanced.app
+||*revanced*android*^$all,domain=~revanced.app
+||appsrs.com/revanced*^$all,domain=~revanced.app
+||https://www.kocpc.com.tw/archives*^$all,domain=~revanced.app
+
+# fake sites
+||revancedextended*.*^$all,domain=~revanced.app
+||revanced*.*^$all,domain=~revanced.app
+||re-vanced*.*^$all,domain=~revanced.app
+||revanced*.*^$all,domain=~revanced.app
+||ytrevanced*.*^$all,domain=~revanced.app
+||YouTubeReVanced*.*^$all,domain=~revanced.app
+||youtube-revanced*.*^$all,domain=~revanced.app
+||youtuberevanced*.*^$all,domain=~revanced.app
