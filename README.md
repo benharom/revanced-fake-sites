@@ -8,15 +8,19 @@
 ublock origin filter for redirecting from fake revanced sites to a real one
 
 [Getting started](#getting-started) •
-[Installation](#installation)
+[Installation](#installation) •
+[Issues](#issues)
 </div>
 
 ## Getting started
-First of all, you need to install uBlock Origin (The best Adblocker)
-Here are the links:
+First of all, you need to install uBlock Origin (The best Adblocker):
 
 [Opera extension](https://addons.opera.com/en/extensions/details/ublock), [Firefox extension](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin), [Chrome extension](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm), [uBlock's github](https://github.com/gorhill/uBlock)
 
 ## Installation
-coming soon.
+[Subscribe to the filter](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/benharom/revanced-fake-sites/main/revanced-fake-sites.txt&title=ReVanced%20Fake%20Sites%20Block)
+That's it.
+
+## Issues
+Please report any bugs that you found on the [Issues Page](https://github.com/benharom/revanced-fake-sites/issues) or if you want to contribute head over to the [Pull requests page](https://github.com/benharom/revanced-fake-sites/pulls)
   
