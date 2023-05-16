@@ -3,7 +3,7 @@
 ! Author: benharom
 ! Expires: 3 days
 ! Homepage: https://raw.githubusercontent.com/benharom/revanced-fake-sites/main/revanced-fake-sites.txt
-! REVANCED REAL LINKS: revanced.app | github.com/revanced/ | reddit.com/r/revancedapp | discord.gg/revanced | t.me/s/app_revanced | https://twitter.com/revancedapp |
+! REVANCED REAL LINKS: revanced.app | github.com/revanced/ | reddit.com/r/revancedapp | discord.gg/revanced | t.me/s/app_revanced | https://twitter.com/revancedapp | and so more..
 ! i know it isn't made well, but whatever
 ! some of them blocks sites with malware
 
@@ -37,3 +37,8 @@
 ||YouTubeReVanced*.*^$all,domain=~revanced.app
 ||youtube-revanced*.*^$all,domain=~revanced.app
 ||youtuberevanced*.*^$all,domain=~revanced.app
+
+# real sites - Lazy patch, but it works. Thank god..
+@@||github.com/revanced/^$document
+@@||objects.githubusercontent.com/github-production-release-asset-2e65be/471494981/7ab6c8b3-aa9d-480d-bf8c-c1bf20e8d535^$document
+@@||*revanced^$document
