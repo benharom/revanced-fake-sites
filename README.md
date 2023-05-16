@@ -25,10 +25,13 @@ Most of the adblockers, are compatible with this filter! (for example, ublock, a
 After that you're good to go!
 
 ## What's new
-New update is here!
+New update is here! 
 New things in the new 0.20 update:
+```
 - Fixed a bug, where you weren't able to download the ReVanced Manager
 - ReadMe Typo
+```
+</details>
 
 ## Issues
 - News articles are getting blocked by this extension. This issue will not be fixed
