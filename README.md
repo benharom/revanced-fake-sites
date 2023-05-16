@@ -1,6 +1,6 @@
 <div align="center">
 <h1> 🛡️ ReVanced Fake Sites (Dev Branch) </h1>
-DO NOT USE THIS BRANCH FOR NOW.  
+
 <p> 
 <a href="https://github.com/gorhill/uBlock" alt="uBlock">
 <img src="https://img.shields.io/badge/uBlock-Origin-red" /></a>
